@@ -13,9 +13,10 @@ A lightweight blog service providing basic post and comment management through G
 - **post(id)** — Retrieve a single post with its comments
 
 ### How to Run
-
-- source .venv/bin/activate
-- python3 blog_api.py
+1. Clone the repository
+2. Install dependencies using `pip install -r requirements.txt`
+3. Run the application using `python3 blog_api.py` 
+4. Access the API endpoints via browser or Postman
 
 ### Query format:
 Create a Post
