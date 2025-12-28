@@ -1,0 +1,5 @@
+Flask==2.2.5
+graphene==3.4.3
+xmltodict==0.13.0
+nanoid==2.0.0
+

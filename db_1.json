@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": "C4n7aqob",
+      "title": "Updated Title test2",
+      "description": "Updated description for testing.",
+      "publish_date": "",
+      "author": "Joviyal"
+    },
+    {
+      "id": "qPmSy_8C",
+      "title": "A day in the life",
+      "description": "Sharing my routine and thoughts.",
+      "publish_date": "2025-12-06",
+      "author": "Rose"
+    },
+    {
+      "id": "pYJIl8At",
+      "title": "Travel Diaries \u2014 Updated",
+      "description": "My recent trip experience.",
+      "publish_date": "2025-12-06",
+      "author": "Ann"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1Vjsx944",
+      "postId": "C4n7aqob",
+      "text": "Great first read!",
+      "author": "User1"
+    },
+    {
+      "id": "ppIgFBa4",
+      "postId": "qPmSy_8C",
+      "text": "Lovely read, Rose!",
+      "author": "ReaderA"
+    },
+    {
+      "id": "LMnmXWKl",
+      "postId": "pYJIl8At",
+      "text": "Great travel tips, thanks!",
+      "author": "ReaderB"
+    },
+    {
+      "id": "op92mFzL",
+      "postId": "C4n7aqob",
+      "text": "Another helpful point.",
+      "author": "User3"
+    }
+  ]
+}
